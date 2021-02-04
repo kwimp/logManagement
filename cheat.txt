@@ -1,0 +1,1 @@
+document.querySelector('main-page').shadowRoot.querySelector('neon-animated-pages').shadowRoot.querySelector('#content').assignedNodes()[3].querySelector('iframe-container').shadowRoot.querySelector('#iframe').contentWindow.document.querySelector('#sideNav').style.cssText = 'display:none !important'
